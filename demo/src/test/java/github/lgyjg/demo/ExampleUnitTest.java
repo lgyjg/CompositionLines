@@ -1,4 +1,4 @@
-package site.aman.demo;
+package github.lgyjg.demo;
 
 import org.junit.Test;
 
