@@ -1,9 +1,16 @@
+Composition Lines
+
+In this project, there are a number of common compositional line views,
+such as the golden spiral line, the gold style line, the well pattern line, 
+and so on. 
+
 # FibonacciView
 Fibonacci Golden Spiral View
 
-like as follow
 ![demo_show](./screenshots/show.png)
 
+# other
+not born now
 
 # LICENCE
 Copyright 2017 Jianguo Yang
